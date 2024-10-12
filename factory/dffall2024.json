@@ -1,0 +1,9 @@
+{
+	"name": "dffall2024",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3834a98b-8e80-4405-bc8e-f6c852619bfc",
+		"tenantId": "7dda3e23-4623-4021-80f5-a4a00fb068c6"
+	}
+}
